@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cafe App</string>
+    <string name="title">Dido Cafe</string>
+    <string name="description">Dido Cafe is proud to have been awarded the Highest Food Quality &amp; Taste award 2018 by the MCA Eating Out Panel.
+Thank you to all our loyal guests and everyone who vote who voted for us.As we open 24 Hours. </string>
+    <string name="phone">tel:650-555-5555</string>
+    <string name="website">www.didocofe.com</string>
+    <string name="address">1526 Latham St,Mountain View.</string>
+</resources>
